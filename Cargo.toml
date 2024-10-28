@@ -1,0 +1,10 @@
+[package]
+name = "flvp"
+authors = ["Guaderxx <guaderxx@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+description = "A FLV format parsing library written in Rust."
+keywords = ["flv", "parse"]
+
+[dependencies]
